@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #333333;
+  background-color: #ffffff; }
+
+a, a:link, a:visited, a:active, a:link {
+  color: #337ab7;
+  text-decoration: none;
+  outline: none; }
+
+a:hover,
+a:focus {
+  color: #23527c;
+  text-decoration: underline; }
+
+input[type="button"], button {
+  cursor: pointer; }
+
+.acenter {
+  text-align: center; }
+
+.aleft {
+  text-align: left; }
+
+.aright {
+  text-align: right; }
+
+.clear {
+  clear: both; }
+
+.p5 {
+  padding: 5px; }
+
+.p10 {
+  padding: 10px; }
+
+.m5 {
+  margin: 5px; }
+
+.m10 {
+  margin: 10px; }
+
+.show {
+  display: block; }
+
+.hide {
+  display: none; }
+
+@media (min-width: 768px) {
+  .row {
+    width: 756px; } }
+@media (min-width: 992px) {
+  .row {
+    width: 974px; } }
+@media (min-width: 1200px) {
+  .row {
+    width: 1176px; } }
+.row {
+  clear: both; }
+  .row .col1, .row .col2,
+  .row .col3, .row .col4,
+  .row .col5, .row .col6,
+  .row .col7, .row .col8,
+  .row .col9, .row .col10,
+  .row .col11, .row .col12 {
+    float: left; }
+  .row .col1 {
+    width: 8.333333333%; }
+  .row .col2 {
+    width: 16.666666667%; }
+  .row .col3 {
+    width: 24.99999999%; }
+  .row .col4 {
+    width: 33.333333333%; }
+  .row .col5 {
+    width: 41.666666667%; }
+  .row .col6 {
+    width: 49.99999999%; }
+  .row .col7 {
+    width: 58.333333333%; }
+  .row .col8 {
+    width: 66.666666667%; }
+  .row .col9 {
+    width: 75%; }
+  .row .col10 {
+    width: 83.333333333%; }
+  .row .col11 {
+    width: 91.666666667%; }
+  .row .col12 {
+    width: 100%; }
+  .row .pref1 {
+    margin-left: 8.333333333%; }
+  .row .pref2 {
+    margin-left: 16.666666667%; }
+  .row .pref3 {
+    margin-left: 24.99999999%; }
+  .row .pref4 {
+    margin-left: 33.333333333%; }
+  .row .pref5 {
+    margin-left: 41.666666667%; }
+  .row .pref6 {
+    margin-left: 49.99999999%; }
+  .row .pref7 {
+    margin-left: 58.333333333%; }
+  .row .pref8 {
+    margin-left: 66.666666667%; }
+  .row .pref9 {
+    margin-left: 75%; }
+  .row .pref10 {
+    margin-left: 83.333333333%; }
+  .row .pref11 {
+    margin-left: 91.666666667%; }
+  .row .pref0 {
+    margin-left: 0; }
+  .row .suf1 {
+    margin-right: 8.333333333%; }
+  .row .suf2 {
+    margin-right: 16.666666667%; }
+  .row .suf3 {
+    margin-right: 24.99999999%; }
+  .row .suf4 {
+    margin-right: 33.333333333%; }
+  .row .suf5 {
+    margin-right: 41.666666667%; }
+  .row .suf6 {
+    margin-right: 49.99999999%; }
+  .row .suf7 {
+    margin-right: 58.333333333%; }
+  .row .suf8 {
+    margin-right: 66.666666667%; }
+  .row .suf9 {
+    margin-right: 75%; }
+  .row .suf10 {
+    margin-right: 83.333333333%; }
+  .row .suf11 {
+    margin-right: 91.666666667%; }
+  .row .suf0 {
+    margin-right: 0; }
+
+/*# sourceMappingURL=zynk.grid.css.map */
